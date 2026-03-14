@@ -1,0 +1,44 @@
+# Java
+target/
+*.class
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Package artifacts
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IntelliJ caches
+.idea_modules/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/shelf
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+Icon?
+._*
+
+.Spotlight-V100
+.Trashes
+
+# Logs
+*.log
+logs/
