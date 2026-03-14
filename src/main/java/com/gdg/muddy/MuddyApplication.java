@@ -1,11 +1,13 @@
-package com.gdg.talksubmission;
+package com.gdg.muddy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TalkSubmissionPlatformApplication {
+public class MuddyApplication {
+
     public static void main(String[] args) {
-        SpringApplication.run(TalkSubmissionPlatformApplication.class, args);
+        SpringApplication.run(MuddyApplication.class, args);
     }
+
 }
